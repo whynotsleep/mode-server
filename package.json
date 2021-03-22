@@ -1,0 +1,19 @@
+{
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A configurable lightweight Node server that supports middleware, static resources, request brokers, and route management capabilities.",
+  "keywords": [
+    "middleware",
+    "nodeserver",
+    "proxy",
+    "static-website",
+    "router"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "mode-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
